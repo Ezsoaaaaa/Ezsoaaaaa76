@@ -1,0 +1,26 @@
+{
+  "name": "Craig Floyd",
+  "age": 30,
+  "address": {
+    "street": "Heida Square",
+    "city": "Jurebgag",
+    "state": "SC",
+    "zip": "98003"
+  },
+  "contact": {
+    "phone": "(374) 717-2824",
+    "servicePhone": "800238829"
+  },
+  "birthday": "1998-12-15T18:37:14.744Z",
+  "ip": "97.138.192.90",
+  "foo": "bar",
+  "profile": {
+    "about": "Mecufaaku ir beavel feh gil jifsol piwelo tami munuvuz zameb jotujriw sig jo. Voh sonutpun ticjek uzcon ojbu rocguf gevri dameg wokeic cohim fuwcis tap zuil zur jaehaka se netfe. Heflekil peojiku we ewutebte ruupicez fopnuc bow ah sohjo sokzidho comi diblewab vi nepjan.",
+    "bio": "Otofiliv sulib ziiroliv tegezu pezwehwed igeevasu te gopjuptas kahafip agto upe cagzurfi. Cafuk raczaror cu igecuvfad tifodva okubajo boraraiz sobajer ti kemnet co idded heku picke vuj rulah. Puzime godoid iwonoj webvit ducuzi jugfel niteza nu beza jerzeze ten dilimawi atbulja nepeco se."
+  },
+  "apiKey": "b0835f93c43c403afaf4580fd97afcb6fabcd2c3fccf92ea7cabc5f7fe2d456f",
+  "currency": {
+    "code": "RWF",
+    "name": "Rwanda Franc"
+  }
+}
