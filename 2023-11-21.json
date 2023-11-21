@@ -1,0 +1,26 @@
+{
+  "name": "Norman Moran",
+  "age": 34,
+  "address": {
+    "street": "Baehu Pass",
+    "city": "Tebuzje",
+    "state": "WI",
+    "zip": "10223"
+  },
+  "contact": {
+    "phone": "(855) 985-4186",
+    "servicePhone": "800714142"
+  },
+  "birthday": "1990-12-31T13:37:06.875Z",
+  "ip": "108.168.210.149",
+  "foo": "bar",
+  "profile": {
+    "about": "Kuciut fibnad sapi gu voz poci hirkef ca ciw nivafpo te foh nof da. Wifabota le irhale ubu norvehpa fev dag evuawu ma avipiizo onu cabmevbu gib upidjo rasazu uritemco ecomiw tada. Zaeje deg viki wovso to hehaf ked zel wev pa haem lerlo zanuta monemiju hu punepra udoog du.",
+    "bio": "Tehfi zibgavmi gudivpu pauguawi uzeco bioj fakzactat we as lifket zafcev defellov. Tefgowasi korvuk rabowaj vuolufaz ga zut dawve perlu juk newcu gabem hi gifijbin. Si fe wa humzo oro sahric kum kod cu ewamif wininu liv we zebonic zesjacoz zanwoh gatfi. Lud uslujmu zit rowda beffagpak vieb luscoole rar zagrefi umivu momi judunig vij seehu tepon aloujoca anidci. Omewushe dev su ziog suwuta zicatnad fuw uc guvwobrug wezwis zepfutan pegpatip ginepdo av ehpolvun vivgif lalani. Poj idedadba ikigal vec zon kekzu kodukde em lujaki hamefce cohuducaf wel tadad wad nac wuki. Der foivew iridekrap cefis ebhi durrakbim rejnoh ifku jo tevva loslafrac fojabu iwe je anfuvi."
+  },
+  "apiKey": "49fbf7212eb2afde52c0df3bf2e2e5422a7bef6aede939b0921e572a82ab135b",
+  "currency": {
+    "code": "GHS",
+    "name": "Ghana Cedi"
+  }
+}
