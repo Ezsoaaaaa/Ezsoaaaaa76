@@ -1,0 +1,26 @@
+{
+  "name": "Rosa Kim",
+  "age": 55,
+  "address": {
+    "street": "Fasuj Drive",
+    "city": "Locaok",
+    "state": "SC",
+    "zip": "86345"
+  },
+  "contact": {
+    "phone": "(607) 313-1839",
+    "servicePhone": "800496398"
+  },
+  "birthday": "1967-12-22T09:29:31.251Z",
+  "ip": "248.103.134.225",
+  "foo": "bar",
+  "profile": {
+    "about": "Obuuzi jep cemeuko kaewa tizu cek sugbohhaz po wu juewo cu wuhfof. Bo ona cefsav ge ajouw pog rokken cif iwavewa hohzijof at huwfejma ratsumbu ir bud famam caag. Zizwilnu ehijo wujicbif of moic ziuwgi zagvi ka wuh or uka imi buvfat ilo.",
+    "bio": "Lagiku del ow li da ow zijel repicje kuvsuja nukok lorcaat jifeb dawmiuf kuriafu biig vewol. Le ki ecokaznog nep hu vod nolinif rin bitugguh vo sebe fis up vanoulu amwev muduldub aj diivu. Car revvuhkon irdes horan iriha ogfope ar civ gaupiko kadduuc befirrar senru ejaromu inupej nacuti. Seej otaham bim dutwejtar muji deb bavabi sumliz lu bighik lesif vitnigpat efu welopuc zifjo waum merdaji."
+  },
+  "apiKey": "667a2c78e73dda5b16c95c7aa6ea77946022eb0d13ea0a5da6e50d8c4cfa9afc",
+  "currency": {
+    "code": "XOF",
+    "name": "Communauté Financière Africaine (BCEAO) Franc"
+  }
+}
