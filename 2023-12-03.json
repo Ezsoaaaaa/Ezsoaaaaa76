@@ -1,0 +1,26 @@
+{
+  "name": "Stanley Conner",
+  "age": 55,
+  "address": {
+    "street": "Hutar Point",
+    "city": "Daidusi",
+    "state": "CT",
+    "zip": "17078"
+  },
+  "contact": {
+    "phone": "(418) 596-6694",
+    "servicePhone": "800988622"
+  },
+  "birthday": "1979-07-04T19:29:48.361Z",
+  "ip": "83.168.85.128",
+  "foo": "bar",
+  "profile": {
+    "about": "Wosu ladsapi ripwooro winir tir jugnevef oljat edihezov sefuz zofeh rut dak tu pedi rej duda. Dal urumo fe ta otoupa guh tofbopo nekpit riudzo us rabbu fitok zi bule wihag. Bijit levkas kifoh ji ka fizowow epajum ji owoputje zev mevu digobap alokeb donmofi rosge.",
+    "bio": "Susasleb luhirab wodollu warih tis gav re burvegig goc boalubo piep cajalu peh heen. Vogsuw cuphuwum li nufhingat pad obhif fidahre ajsug ehikahuc bibbohhi obkucofo ho adezemvet. Gon otu oso hufuvis wij lubipwo lececow jiel ap lute luwo ki he ma be webcisir kubcaf ut. Iha terib ok mujwebi igi vudzur bo uwin umuho numforo mifkedma wunik vu ha. At pilhin gumovi do secude du corioce zocuote dik onaano okucabi dik fuli mupibarob pail ewuk."
+  },
+  "apiKey": "3d82524d95eee2f5b1e0775de0c8ce18ab7afc550aa1510a3d22287fff1b994d",
+  "currency": {
+    "code": "BYR",
+    "name": "Belarus Ruble"
+  }
+}
