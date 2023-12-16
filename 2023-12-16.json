@@ -1,0 +1,26 @@
+{
+  "name": "Hallie Hall",
+  "age": 59,
+  "address": {
+    "street": "Liljo Way",
+    "city": "Paluhho",
+    "state": "IN",
+    "zip": "68437"
+  },
+  "contact": {
+    "phone": "(606) 916-6820",
+    "servicePhone": "800329963"
+  },
+  "birthday": "1972-06-03T19:31:18.626Z",
+  "ip": "220.82.72.225",
+  "foo": "bar",
+  "profile": {
+    "about": "Tif po huvhevis uhogoh voejo lu valco ipwar mod tikobha avusele di. Kuj juhmi pav idsic dupotak tezor bo dafsi tevebi sa dop lan aliitjeh hihdit gaucolon. Bav tidgieno juh ralofu ujibammez fod ko ezojod luf rem mopofir zirrowo ulo caruv wanemu daul. Bahukun onudisuj ukidcur ajzurbuk sagak faulalop fudce asnejir cehjuj bazlibnuh dupac wo he ogpi owga. Tezais mahedko uhvujlo cafilmo ri vemusjup da nofkenile ruv tohija nemilu kohmi. Co cifintu tus vataran agutigib zajvo gupikset guguwtuw una li lizaj leetu cik jidegwaf rusajho amukisun.",
+    "bio": "Are tulen emsif hepip caczaga retkovbuh togpev povot nohlekes fivihhi hokbobho ri radpuwa da usiusiiwu iwa hojpal sobawpu. Tute merigi seso nuzredof izodip cuumri ifose nunet itokerif kotrone zo ja bepo rag edosew. Uceac zalid loesezub awa tookenev jiw izitov ceg bizil ve ono gonviz dofraw nonhat rot."
+  },
+  "apiKey": "9f2296451ead56dbe4c843aa0c7898ea25eb7441e2186456eec3595be2a9b57e",
+  "currency": {
+    "code": "THB",
+    "name": "Thailand Baht"
+  }
+}
