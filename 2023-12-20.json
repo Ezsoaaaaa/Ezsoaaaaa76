@@ -1,0 +1,26 @@
+{
+  "name": "Lucy Rowe",
+  "age": 42,
+  "address": {
+    "street": "Ucipa Trail",
+    "city": "Uhtaduri",
+    "state": "ND",
+    "zip": "80251"
+  },
+  "contact": {
+    "phone": "(705) 272-2488",
+    "servicePhone": "800735936"
+  },
+  "birthday": "1964-07-22T13:30:59.641Z",
+  "ip": "47.210.33.56",
+  "foo": "bar",
+  "profile": {
+    "about": "Pud tu na zomooz po vig du ze cali jep nut ged zanhadbo sipkuzo sawewril ocagi omobu. Leagsad hopliov gaizeni ere sej vofuh memowmi arkunes powgivwi obedavi joswonwo kec fiwifo wuz odpa lopzesad. Ucpu geceb fezcade aveen vizujap vodicbak boani makdum diwa verti edagolin fuvhumap huga igdail hin.",
+    "bio": "Di tanerir ci mifhelo zeh cavbij ejusumi wekbeza kav uremaguh zovus eda golzo ran duipu etalotca. Weheh vo jelear ebhakha bad su nohta emekic cubgipliv je jithul iwtetdi lenifej ubkudje fonfonge fanurta. Tezakke irded topse azakace ora ku taj fozwas bovco sel bapjopes efilve bilwod gecof hi lekuz. Gej uvteme huz iha dusod hagbur taruwi zuvhokja jizkoap sohnup zi bi."
+  },
+  "apiKey": "961cd316fbb708a7201fed10b8c1f8f5f511ad0e58220bb9738a9da7e657cfa6",
+  "currency": {
+    "code": "BYR",
+    "name": "Belarus Ruble"
+  }
+}
