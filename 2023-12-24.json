@@ -1,0 +1,26 @@
+{
+  "name": "Marc Ingram",
+  "age": 51,
+  "address": {
+    "street": "Isoeve Court",
+    "city": "Gohagum",
+    "state": "HI",
+    "zip": "77605"
+  },
+  "contact": {
+    "phone": "(286) 547-8116",
+    "servicePhone": "800599198"
+  },
+  "birthday": "1966-01-09T05:47:22.076Z",
+  "ip": "234.11.87.225",
+  "foo": "bar",
+  "profile": {
+    "about": "Hecogig satfaba veuzho akfioge co jesruve alagave so zi gu tiawsu pebzi ku. Dor lo amacogbik kajdo jullo reade zi musetnas higmot bato bi lumut. Gev edakud za de ve gululahil lojfel usucus ul wabfi ced fahemu cosopfuk. Selguico anforoz digut joc ifogir ahe it dusafnul erenuf neni kaf nam vej zesib leafu lew ov irihipze.",
+    "bio": "Kuro lovarodod levpi pambized fa rigile re mu upaw pedsom kuce gocu kadkuw no. Ajic cubu hirtor kawah oteju cakcaw weki cehwa vazkaz cuohpib rem ufite. Il moeva teco apobos me lo relimlu nisgud cajotfe pikgoohe ras zahna mavtetci ne va di peoffi."
+  },
+  "apiKey": "b6a9d1822f6d72689effc8df29cd8292848a12825524a5e7b655cab7fb8f88a4",
+  "currency": {
+    "code": "GYD",
+    "name": "Guyana Dollar"
+  }
+}
