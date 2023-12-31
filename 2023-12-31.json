@@ -1,0 +1,26 @@
+{
+  "name": "Alex Hayes",
+  "age": 22,
+  "address": {
+    "street": "Vatgi Plaza",
+    "city": "Tengomub",
+    "state": "DE",
+    "zip": "87774"
+  },
+  "contact": {
+    "phone": "(210) 987-3603",
+    "servicePhone": "800148974"
+  },
+  "birthday": "1971-11-22T10:12:22.648Z",
+  "ip": "48.74.138.133",
+  "foo": "bar",
+  "profile": {
+    "about": "Fitimir vem fomwa ruvev akmufwog fulmurmeg poseon go fugwar jo pac biwcap rigam. Ned appa kobmakso suliov bi sab dipnu rog fofomhi gotigime lacagecif goh dok ga ekiwoaw jo itenaub. Cil lot cut essabic ginfeg fo cohur mih rezjijzog muv juh bu huzad. Fug pikupo cuhzu mi eha suzo saw puh netivmi fuvwotas biletve rupuud hom. Bezo bac jiko inheg musohod uwvez lewele iwerusi oniuj edcafino bote zec gukocro lotakno. Divusvut ponod falad sajdat wir wagih pivkobem cer tuja uleuto na fotib cicodduf gun odudi soplit.",
+    "bio": "Erihibto soprof ju botwe keekiri va nag kismo vol ma pog larruoha zuz bajrucwus avduh ukifukro vowazpe. Hevdotwi ebozi orouw alijaaza nupah jot rupvusda jerohife savule rosezca lugomtap fofkoraw habjiegi. Danabvem dig wecalo se hijos ho kor vizeb olini kaswok tuvlu zev nibenus vi iz. Bidsemik ricsat gohvok noh zaafdad ihacovse ro dol dobezi bulesjen umo jahugepuv fi pekgic huvasu wo. Vuzudav ofe bucu avdo biv ti so hilif gal beze koabe tijad ivipabroh muk. Uglip capva cisbu cagkac je pif jiuju nuj fujok cauzfum fehari muhukepu unva bivi buol. Ju vezibhi hew itunav muamevu to inajak rafno uzo levit wawu mehudo bof huj ud."
+  },
+  "apiKey": "693095a4365e2d4cce53217a978126de5eee2293b81d038c0e637ac8187e4cbf",
+  "currency": {
+    "code": "NZD",
+    "name": "New Zealand Dollar"
+  }
+}
