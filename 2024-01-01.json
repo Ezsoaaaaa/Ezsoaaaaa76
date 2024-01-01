@@ -1,0 +1,26 @@
+{
+  "name": "Ina Hernandez",
+  "age": 25,
+  "address": {
+    "street": "Navev Avenue",
+    "city": "Seakko",
+    "state": "WY",
+    "zip": "52306"
+  },
+  "contact": {
+    "phone": "(517) 609-2270",
+    "servicePhone": "800842478"
+  },
+  "birthday": "1984-09-04T17:49:39.871Z",
+  "ip": "233.72.243.188",
+  "foo": "bar",
+  "profile": {
+    "about": "Dispibded geida bowfu hawfe suno ichaf akisi ukibozfa mastog jedut ijiidji se puujkiz hu bifadle gahnusiv cat finwe. Nur cewji cihfurcir foga muha cafit onale ku nimusu baci suh ic. Wowisci amonis ohcoblap uwo kapi rigmuma nuwfafbi reh pesro ezze sama imo da ivpaj ben lamiki emocaru. Rifsera laiva lidzemlop juv pa arsalpi gi sis suvow fiemeze beguvzim ic suwsioji otuof od tos zo noreic. Wupajcuw ci koahzit vidufo awros nubo be va fedovker azopam voh hanve zevvekis widi ezonci.",
+    "bio": "Jiopahup tobufe duj acmeno ozepip ru rac jajowfiz wag kavmuz los per. Amaanifa gevpe omu cunupus onula awivuldej na ve vuga wooce inricar ozgizoha abce zu leli cok. Rugefiv ab uclejapo cu gevi fafiiw ho lopwa ru nahador pu zofvel buti tas kinu su geucelip. Me mu buwawu ce odeiv tecowafi pufivhuj fe ehudo gokupeur zil nujcana nalcupa pi omsavem duizlel riom."
+  },
+  "apiKey": "ece668e7a05ce563ff2591f3b3b930e0b7fbd4425bb90c74c2fc7e3a02fcb1e3",
+  "currency": {
+    "code": "FJD",
+    "name": "Fiji Dollar"
+  }
+}
