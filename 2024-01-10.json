@@ -1,0 +1,26 @@
+{
+  "name": "Marc Newman",
+  "age": 50,
+  "address": {
+    "street": "Ziaze Square",
+    "city": "Kakorju",
+    "state": "UT",
+    "zip": "72530"
+  },
+  "contact": {
+    "phone": "(479) 571-6087",
+    "servicePhone": "800292915"
+  },
+  "birthday": "1963-01-02T23:24:28.632Z",
+  "ip": "83.152.73.79",
+  "foo": "bar",
+  "profile": {
+    "about": "Foramuwac fuapiteg migih zokbu ilpurav dowo sov rocun ewaba ekova kegisofa afu ha wuziw citum zir ora cabizeji. Bef wusniw bise gir mo ceonnu de vupko ofali daicacas rafi cabgok maloin cataj diofvub. Pirulna nal sagjamden ewibecjow cidhuv opice jilfiktu ogomup veg vawoba bed fagmuij navleduw. Fubli tupra pu futu kewicam lematrah re oruvazkow tan bu lennu vitagev toivijoj lu bal ve kaaba.",
+    "bio": "Jokori norefomuj cok coud itetiuwi meruc hef goki warifikid sursiuji leddedih iregicum. Juwra ka uwaoruz sazfapeba owiwjer en nuphe kened upobobhin ercalfah jit tada ji fis. Sakfefi fu fuon coteza se umeluj urakuv dahiwcu lofho uliosu upiziwvi dudel nejvoce."
+  },
+  "apiKey": "fcc041c33450e4dd5e26a05eb5cb916f5a1f420ea7ddc0cf4aa868747dc2fc3d",
+  "currency": {
+    "code": "SDG",
+    "name": "Sudan Pound"
+  }
+}
