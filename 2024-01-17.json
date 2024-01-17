@@ -1,0 +1,26 @@
+{
+  "name": "Samuel Wilkins",
+  "age": 22,
+  "address": {
+    "street": "Pejas Point",
+    "city": "Lujahpe",
+    "state": "WV",
+    "zip": "00286"
+  },
+  "contact": {
+    "phone": "(227) 858-3008",
+    "servicePhone": "800387355"
+  },
+  "birthday": "1993-01-10T04:22:42.403Z",
+  "ip": "48.116.205.127",
+  "foo": "bar",
+  "profile": {
+    "about": "Pa warsano ezawi fevaf agu sapzun utbez jedatnup av re tobdudzo cak pucare. Rari naron nezkapud lafrerig ewwinud oko woputwon bap iteb zasro jowtosgal erkuul ijigu zevaepu. Puc no kic saneduve ot dud suwti tejihbum aw jomef aw piw wen tebwuufu. Kok leowonu nudow lozofud pavi kit risanke juegi so tiwmim su hejuija zowafig.",
+    "bio": "Amgizifa garuwfis teclin ek nor huif musbez ta dasvi bebeviup nize bacap gaje icekiud adluzwo car. Uco filemu wefwa lukuw helfov sa tihoj pa uzi emweig maw ge luos ni. Hod becuj waimasus cubaro ikamizu wiwiv jikakug wittuva kesup buc ume alaguloh eftu fem. Igoizupu ebane feneksi dawolduw oc nihhimla is jod lazer hubas imbutoc afide par kekep umielhez ob mepiki. Limup fam vu oto po fif bemrif rubosibu ejegoba vo pipi ciwtop. Se vekeru wohi gizko ojogat utgisig suzet cabi asuewepip fup in civ foamebe fip. Pomsugbap suforaehu ore ogi pamjadhit ene we labwajkif dinuzuur vausu hudebe hiz si."
+  },
+  "apiKey": "4de2e50bbe64bad150131fdbe9b437e5c3fa47ef7d05129d6c13e2332f777bf4",
+  "currency": {
+    "code": "LTL",
+    "name": "Lithuania Litas"
+  }
+}
