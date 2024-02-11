@@ -1,0 +1,26 @@
+{
+  "name": "Joe McCarthy",
+  "age": 25,
+  "address": {
+    "street": "Zibaw Pike",
+    "city": "Ducavam",
+    "state": "AL",
+    "zip": "11078"
+  },
+  "contact": {
+    "phone": "(603) 344-9179",
+    "servicePhone": "800415981"
+  },
+  "birthday": "1972-12-26T09:04:17.322Z",
+  "ip": "198.195.169.236",
+  "foo": "bar",
+  "profile": {
+    "about": "Uvuib ho vaaz puhe hec zezew ed vanu niwdu noremaj sarzucu tu ov hustiv lu kenamdap amerbow. Zu men apehimi keku reurne mazo si hojo molsuvmu waomore ve ki suihokol iszelef cugvuf ru totbo. Tuc fe emapi hatrefij ocjow tupo dac emjumi emilogo mes ze en suido fuw. Putatef lisfup tal jeehja atheruh koftuj ecliflu wu daazuanu upuihi ushi ecero se idi aflahu vebezup uzuneszi. Cawuliso ju lu forsasul opu niriv iforohru oc sa be iguac iji gunhori ubo nifdojba. Sonbuva abive de ewom mi de wek jabto jib miidzal dek muod.",
+    "bio": "Zututseh ba furi ik sitaw jub kofzizet his upfenav bi nin segopkim. Rumsa nuitda buogten po wup hegmuji jodcu cuvi weede ponicrep popapo ijloho kirali kopwecid kechu goevvi. Agpuri iwurukpa lag aw wiju rocjogez nodofut da ija mibcun uzgafib loce mogne peopoza. Sowvossa jajat bedbudal vukepzaf poijelez reev ija fa ceetigib ezehusi vergenmak ozouhgaf wecoboki. Koj it zerunrew wawahlu etadisow meflas pi be jusut ga ni jiphomdi ahgacle toijamim pewosu daefdu. Imru unuta hashunek oteffu fazviw etiroub mebgejes negedu cug apsesije uwekofep citvuver majkaih mehidiji lag jetaeru sijpupji nunbucej."
+  },
+  "apiKey": "38fa5784648b2bd58dfe6b2db2ff23377b785270337fc1acc4941899698dfffd",
+  "currency": {
+    "code": "XOF",
+    "name": "Communauté Financière Africaine (BCEAO) Franc"
+  }
+}
