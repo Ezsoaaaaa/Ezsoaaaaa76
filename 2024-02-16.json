@@ -1,0 +1,26 @@
+{
+  "name": "Jack Gutierrez",
+  "age": 42,
+  "address": {
+    "street": "Cahtev Circle",
+    "city": "Jidtiino",
+    "state": "MO",
+    "zip": "37142"
+  },
+  "contact": {
+    "phone": "(921) 778-8208",
+    "servicePhone": "800417138"
+  },
+  "birthday": "2001-12-30T02:46:47.376Z",
+  "ip": "186.37.19.64",
+  "foo": "bar",
+  "profile": {
+    "about": "Ca wiced oflugvav wemmu etduw kev uhgelta fiev agdag wowaz puih adrombac gulamo. Nibik eg wuju memnod tuvvomej wona heoca hesomle uhvu veznice zowvucup ici. Deho insivuc saduhafa recafu vurifovo nerelah solupan wezokla ditev kabecnuz todozi jave kipde jucu.",
+    "bio": "Or ute akoagaowo duvecoc kif bopulof curkoplu viksifu ajikihmin tezu ra bomomucu relfuwro lulceswo loake ejub bi da. Zazofte gevomceg ce ha ikgotoj no rovo jek amo udgi juprisuh jug polav pi avipupuv vibpupeh je etkub. Anoelekaj gulo cufgi kafcig nohkin la silej gig joizi teuke ruvsobe bidrat. Niv nok harfog pok vutoz kojivnir ujusulkac zeunel mem me imhuv nogpikmi carriniri dovigedo ruwvud de futammec ko. Ju ru olbo kizmo re giptofow sudtowoj ujwivlel ruritu oca tuwzeedo sod kubhazho zesvaov."
+  },
+  "apiKey": "e58d4016a3076bf35731ad0c6ae67fc0b856078e1613584817fffb4d3bffd7da",
+  "currency": {
+    "code": "RUB",
+    "name": "Russia Ruble"
+  }
+}
