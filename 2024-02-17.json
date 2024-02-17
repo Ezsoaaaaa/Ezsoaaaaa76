@@ -1,0 +1,26 @@
+{
+  "name": "Brett Campbell",
+  "age": 50,
+  "address": {
+    "street": "Utsag Point",
+    "city": "Siktalwe",
+    "state": "ID",
+    "zip": "19468"
+  },
+  "contact": {
+    "phone": "(276) 542-1363",
+    "servicePhone": "800333289"
+  },
+  "birthday": "1995-08-31T16:43:02.430Z",
+  "ip": "123.99.38.115",
+  "foo": "bar",
+  "profile": {
+    "about": "Mon dit buile keftafu irolubo og aznag wu sarmut kaazve kilobo efiamsu pohi pitfed fuzno. Kike zunazug ec epi ros pekuvor dolfuli wahu cir saw rirta de sofewe baczid. Oheuw zim dok zet gizemo rocos da upu cudrij lef soz mozecsas gohlap apenacu jojze gob wavfogob se. Uma sujokti emgage duh petteug ewupimcu gas op fetanana heumi pif koku zupoddi wi ruvden. So mogucef jemev ebti miszo cobnirkit num dezu sohu lahwek amomu gedic ri icohe dukov civsog vupuze fanieri. Sa fopnieri piro dofgaote ubkoce nudarel pewbo obulunka mof siwoki jowov ase tes ci rezril vemut uwaciiz banhefzig.",
+    "bio": "Rez loged comse afajig devuhvol giz ujlu ruhkera lunlusneb az balleji hubovav ejrojhub zuwzuvas adi al pekdatlor zizvacado. Nazuc hi cichat hedmek ful boucezaw somtutru jedworbu taviksu wemzo dopnu nonicde. Dehe taje puhnerup utotifal ime jiciw abusor bemka caf sivzolos aw kekgosuj mob. Um zergidmom os neup nor hajucfo ipjerca pari cehab mevzelas as surhiadu."
+  },
+  "apiKey": "ffec23fd698f88ed45b7a632580cfeec54cd8c5c1ed8431b40eee49aacf8b0c5",
+  "currency": {
+    "code": "JOD",
+    "name": "Jordan Dinar"
+  }
+}
