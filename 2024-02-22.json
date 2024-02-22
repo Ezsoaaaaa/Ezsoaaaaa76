@@ -1,0 +1,26 @@
+{
+  "name": "Mathilda Fisher",
+  "age": 18,
+  "address": {
+    "street": "Azbez River",
+    "city": "Tepajfut",
+    "state": "MD",
+    "zip": "30302"
+  },
+  "contact": {
+    "phone": "(439) 817-3256",
+    "servicePhone": "800443513"
+  },
+  "birthday": "2002-11-11T18:38:46.883Z",
+  "ip": "91.215.139.36",
+  "foo": "bar",
+  "profile": {
+    "about": "Ibjihes ponja sapojce bi dirkab lovce pefburfo ijibo zauha ne webaspe kodguew babsuhed tekufda uziogopi wad ruc. Rapo jiz ligsusak regkohca jak upihi up nonagaz zek areot zohepcas ba ca. Girubva bajgefbew kiuce ve ra jomze fa wukoke poju disbeumu mulik zoh hajiwar udaba luhepso.",
+    "bio": "Re feuha ewokawnow rufumtam raaspep marleftav segpembi hurikil dovkis wol erorebpa mukviz. Nu bolnajuz rujfa je sawusri zurivkib buwoed akaej opiinuse bojzi lulpoc ahbi newmoeju memajuruc seczotove. Jib ne edaje va geuz koksej tad wonfekro luojipo vakba aga sufihezow bif laluw sowap zithefme."
+  },
+  "apiKey": "21277d331908cf3a4a2986a93774c653c34fde577a244906557040227d61284d",
+  "currency": {
+    "code": "CLP",
+    "name": "Chile Peso"
+  }
+}
