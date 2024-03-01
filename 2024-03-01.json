@@ -1,0 +1,26 @@
+{
+  "name": "Bernard Ramirez",
+  "age": 65,
+  "address": {
+    "street": "Zafpa Trail",
+    "city": "Mufdihpa",
+    "state": "AK",
+    "zip": "66905"
+  },
+  "contact": {
+    "phone": "(705) 262-7831",
+    "servicePhone": "800413154"
+  },
+  "birthday": "1990-03-20T00:15:40.019Z",
+  "ip": "50.243.186.54",
+  "foo": "bar",
+  "profile": {
+    "about": "Le pa ribnamjiv enabo heb rovru gi az to julitwu livdu hohgo vofdamsiz dehlo. Lafsivdid ace mejeple kalgala lofot migere kojuscuc dolafa teejbud da afeaduta ivuwuz ziwes. Otnag ute aravati vazekwob mib ipoemuub ciwlac unicop lubhos hu gedij wurak nummaaka li.",
+    "bio": "Cublajti om luk niiv ejnis uv boh tazuc dupisid imata pe resuwri eso lig. Jibazo ja wezimezum dad aruca mal og ziwsa cega wiskiho padsirad to. Wo jefise rukliwapo imu ajuizowi obujumnah hupo azkovos peh taz zimdiega hurofcoh. Volgaf fad zeci reagi zikbizsum api sutrotaj mopzud wemiv bu filroklo seka pem."
+  },
+  "apiKey": "6ac22aabbe97027ca4e7ff3d72cb486bb4e7c0200d915ca065f45f740000ab4e",
+  "currency": {
+    "code": "MUR",
+    "name": "Mauritius Rupee"
+  }
+}
