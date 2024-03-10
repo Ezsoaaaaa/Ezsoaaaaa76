@@ -1,0 +1,26 @@
+{
+  "name": "Jacob Sparks",
+  "age": 39,
+  "address": {
+    "street": "Nokil Point",
+    "city": "Fegalfof",
+    "state": "VT",
+    "zip": "77563"
+  },
+  "contact": {
+    "phone": "(503) 715-4150",
+    "servicePhone": "800513453"
+  },
+  "birthday": "1991-12-25T02:13:47.257Z",
+  "ip": "239.100.173.145",
+  "foo": "bar",
+  "profile": {
+    "about": "Rigze rugsikhu do ac molihij ricrob hihloob aptibid wobli fa binec dig negutka jokcutha sija imovav wamolpo. Wun huk wetazgug aborojoj duw gawel bu bajucag ufroew ewout tawa anmeun. Wewug ze mibes go dat mig midzutu afnupaj tuvje mitatgup riife tinif. Jap dadme du gatjoriz duj namaw tojna sifum reevohiz pezonru kel foj no azu mefucij warvufut bihu.",
+    "bio": "Tu bubrok miz ojo muudse dufilzag guc sen ravudac ipusev ric vec pocfuphez jizoz joc ki. Le ub fumlorlo pefon tobkik inatetoc uk subez ni heckogvo divipacu zuzo juc vofet tan casak abaif. Jimagu dalge giavoni sibed rit tukwuz hub nelpitsog nipur nenirse vojab kud pekforva."
+  },
+  "apiKey": "bb53c0377f38c70724914f3658eb0e29831aa4e44d7cd3131657f396852ee7b9",
+  "currency": {
+    "code": "NZD",
+    "name": "New Zealand Dollar"
+  }
+}
