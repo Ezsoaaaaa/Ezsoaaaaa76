@@ -1,0 +1,26 @@
+{
+  "name": "Helena Allison",
+  "age": 64,
+  "address": {
+    "street": "Putot Highway",
+    "city": "Walmoja",
+    "state": "WV",
+    "zip": "47090"
+  },
+  "contact": {
+    "phone": "(927) 921-4574",
+    "servicePhone": "800413261"
+  },
+  "birthday": "1971-09-03T18:27:42.147Z",
+  "ip": "48.188.206.59",
+  "foo": "bar",
+  "profile": {
+    "about": "Kimhanpow la zuhak rovaw ugwu osubo ene amalapo afi co ezobu ecbaes ibi tuicceg ebagal. Ni leb ucjugog mimfetmo bo lokuk gelridvu wonwi onoivkiv sul okicu tum nepe bilekjo si fu zacjivgej. Ubo rewli upadoze zovra laswetuhi ozozuhbi penih zohronol at lirlufjar unanuwac zoza du tomuw. Subsi mut ucgip diw ebu arono pi efselen nipta mohpi luvondel rew.",
+    "bio": "Wi zekmij ututarda ta ke po li momfi varhu elome urfem ih ubwepihu cojmej. Kog nohid nah kauki adcefema ama gun mukmeule fefam mezofun naz onuvida zojuaro ge te peaze boduguvo. Okecak jiv nehcifvo siguv bep huizi ovnawaz mo odovo dahnec ije kuzdebar petjaat ohuje uje."
+  },
+  "apiKey": "ee360792db7abb60707e9c19dc018e3500f06707baa0f181c1bdc745f0235549",
+  "currency": {
+    "code": "KES",
+    "name": "Kenya Shilling"
+  }
+}
