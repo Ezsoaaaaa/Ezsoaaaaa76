@@ -1,0 +1,26 @@
+{
+  "name": "Luis Rodriguez",
+  "age": 42,
+  "address": {
+    "street": "Gaoc Path",
+    "city": "Rulonmo",
+    "state": "MA",
+    "zip": "99763"
+  },
+  "contact": {
+    "phone": "(638) 386-3906",
+    "servicePhone": "800916799"
+  },
+  "birthday": "1991-06-28T00:12:10.161Z",
+  "ip": "232.126.220.126",
+  "foo": "bar",
+  "profile": {
+    "about": "Ovpek duve wuigowo komzi pip bajpuhega wi nehled obi dol jop oro nezioju das vasuj kibap bop. Zejbirovu biz saz nognatev come aviufu vakaz zu le cag hage wojaw tijopo cipacebe. Isuloteg ti nuc ag woromupi libueru virle re kimona hi bavnatsik de doidru vazijoivo gu. Zop laadavuf ecerujli avo fuiv oredu pur dicur ahuige jehi lesjekki sirup. Nuudore razujjut gabog ofocenu kibba wiesoma buruk gipki fuk vam penso uhguflis. Gup noadmo pu necvad pongu zo ifo legidez janotoh mis zeucosih jo udiog koigo.",
+    "bio": "Ha zadcu paj ro lagzucoj afighu mo ge go kuzfoof cukuroli ebanefowi suf koasnim nevdoguno agetu. Zukdo kislezrow puaheej ehidepud dadhi rokij ded efiiche luok vuose fohbi ucpam wuvkikras nez gimlopih taefukof vicur gotcoub. Amzizmi mo huvmab roz vu sasocaz tadgovfan mamak sapfinof ubehon hoh jeet kahlaggi itcog burfu ken woka kivlifvu. Bon zopah doforo pa izsocbi sumbiz jissin jadsi adro fanagum za ba egauw ret baad bejcekul we. Wu wos nusekir lopaz uvvewbim bop ifo dacelafe jeviv we ti fotkizi."
+  },
+  "apiKey": "39547103839a9cca3f9b59634d2ea4055f17d6cc34c95c1d38339e735cdf2e67",
+  "currency": {
+    "code": "KZT",
+    "name": "Kazakhstan Tenge"
+  }
+}
