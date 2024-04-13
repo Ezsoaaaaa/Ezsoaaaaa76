@@ -1,0 +1,26 @@
+{
+  "name": "Adam Wright",
+  "age": 60,
+  "address": {
+    "street": "Cari Manor",
+    "city": "Ijokeceh",
+    "state": "NV",
+    "zip": "50296"
+  },
+  "contact": {
+    "phone": "(881) 688-2644",
+    "servicePhone": "800765566"
+  },
+  "birthday": "1980-05-19T20:55:30.587Z",
+  "ip": "245.83.229.163",
+  "foo": "bar",
+  "profile": {
+    "about": "Kus juga it sevu pa lebe erlukap micab duc ve duf fikkul akti maocoza me. Rogipu cowowek kehom hi he gizdiw op hin ubsuici kiut afe ho sikip. Neepe deje wo sik tuw luon jem eb meg lodar muznuhas di ferfoj jochec. Tof uttob golval povunav uwa re he irejuzfe kal umwiha al mibbodmo gascudno.",
+    "bio": "Komtip fuzdugob jebvos je hiktu win agekimwug dibofmin ci pomazo mi no hat lin. Wucad momucseb caotu tofavuwa ufoniwtas hofi di ihduzo vuzjueku lo sak vonta cug. Zoh vouzehu fenvali fi azafeszud ak kakouz heskawpa titohnu wok vajig pawusbuk ofazucob tar ringat."
+  },
+  "apiKey": "67274ff09cea1f5ea9d13393cfec2ce3367e7fdd465b07e282cc317f399b737a",
+  "currency": {
+    "code": "ISK",
+    "name": "Iceland Krona"
+  }
+}
